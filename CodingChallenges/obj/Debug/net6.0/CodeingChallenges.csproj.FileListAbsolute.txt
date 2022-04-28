@@ -1,0 +1,15 @@
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/bin/Debug/net6.0/CodeingChallenges
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/bin/Debug/net6.0/CodeingChallenges.deps.json
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/bin/Debug/net6.0/CodeingChallenges.runtimeconfig.json
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/bin/Debug/net6.0/CodeingChallenges.dll
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/bin/Debug/net6.0/ref/CodeingChallenges.dll
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/bin/Debug/net6.0/CodeingChallenges.pdb
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.csproj.AssemblyReference.cache
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.AssemblyInfoInputs.cache
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.AssemblyInfo.cs
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.csproj.CoreCompileInputs.cache
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.dll
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/ref/CodeingChallenges.dll
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.pdb
+/Users/alistairgraham/Projects/CodeingChallenges/CodeingChallenges/obj/Debug/net6.0/CodeingChallenges.genruntimeconfig.cache
