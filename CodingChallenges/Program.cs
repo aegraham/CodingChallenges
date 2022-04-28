@@ -1,35 +1,24 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using CodingChallenges.Global;
 using CodingChallenges.RailFence;
 
-Console.WriteLine("please enter the d to decode and e to encode - enter xx to exit");
-string line;
-while((line = Console.ReadLine()) != "xx")
+StartApplication();
+string? line;
+
+while ((line = Console.ReadLine()) != "xx")
 {
-    Console.WriteLine("please enter the key ");
-    var key = Console.ReadLine();
-
-    Console.WriteLine("please enter the text ");
-    var text = Console.ReadLine();
-    
-    
-    if (line == "d")
+    if (line?.ToLower() == TestList.RailFence.ToLower())
     {
-        if (key != null)
-        {
-            string? result = RailFence.Decode(int.Parse(key), text);
-            Console.WriteLine(result);
-        }
+        RailFenceCommand.Start();
     }
 
-    if (line == "e")
-    {
-        if (key != null)
-        {
-            string? result = RailFence.Encode(int.Parse(key), text);
-            Console.WriteLine(result);
-        }
-    }
-    
-    Console.WriteLine("please enter the d to decode and e to encode - enter xx to exit");
+    StartApplication();
+}
+
+void StartApplication()
+{
+    Console.WriteLine("please choose your coding challenge ");
+    Console.WriteLine("For rail fence enter " + TestList.RailFence);
+    Console.WriteLine("To exit please enter xx");
 }
